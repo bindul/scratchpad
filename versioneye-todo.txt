@@ -1,0 +1,6 @@
+* Verify that create puts the versioneye.properties in the correct location
+* Test update change project name
+* Test create new module
+* Test version property mess (Derby version)
+* Test proxy (https://github.com/trautonen/coveralls-maven-plugin) can do with update
+
